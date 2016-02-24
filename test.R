@@ -1,2 +1,2 @@
 print("test")
-summary(iris)
+str(iris)
